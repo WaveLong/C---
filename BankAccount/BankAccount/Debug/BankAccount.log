@@ -1,0 +1,7 @@
+﻿  Account.cpp
+  Controller.cpp
+C:\Users\wangxin\Desktop\C++\BankAccount\BankAccount\Controller.cpp(74,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\wangxin\Desktop\C++\BankAccount\BankAccount\Controller.cpp(110,21): warning C4018: “<”: 有符号/无符号不匹配
+  test.cpp
+  正在生成代码...
+  BankAccount.vcxproj -> C:\Users\wangxin\Desktop\C++\BankAccount\Debug\BankAccount.exe
